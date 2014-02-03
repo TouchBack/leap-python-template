@@ -11,6 +11,9 @@ Notes
 * Requires Leap Motion device software to be installed
 * Uses Leap Motion SDK (version 1.0.9)
 
+License Information
+-------------------
+
 Copyright (C) 2014 TouchBack
 
 This program is free software: you can redistribute it and/or modify
